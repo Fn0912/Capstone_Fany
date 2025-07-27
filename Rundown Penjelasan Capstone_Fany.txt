@@ -1,0 +1,8 @@
+Rundown Penjelasan
+
+1. Perkenalan diri
+2. Menjelaskan mengenai Air Bnb terutama yang di Bangkok
+3. Menjelaskan masalah yang ditemukan di dataset 
+4. menjelaskann target presentasi untuk penjelasan Airbnb ini 
+5. menjelaskan insight data yang di temukan data review tertinggi, Harga tertinggi, daerah yang banyak penginapannya, review tertinggi berbanding dengan price.
+6 mejelaskan saran yang dapat diberikan untuk menyelesaikan masalah.
